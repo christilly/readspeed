@@ -1,0 +1,11 @@
+Package: readspeed
+Title: Goodreads Reading Speed Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person(Christine, Tran, email = "ctschultz@usf.edu", role = c("aut", "cre"))
+Description: This package analyzes book export data from Goodreads to estimate 
+    the average time readers take to finish books.
+License: CC0-1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
